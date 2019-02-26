@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Max Reinwald / Site Title"
+title                    : "Max Reinwald"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Max Reinwald"
 description              : &description "personal description"
 url                      : https://mreinwald.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Max Reinwald"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  location         : "Konstanz, Germany"
+  employer         : "University of Konstanz"
+  googlescholar    : "https://scholar.google.com/citations?user=lurtrcsAAAAJ&hl=de&oi=ao"
+  email            : "max.reinwald@uni-konstanz.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,19 +95,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://linkedin.com/in/max-reinwald"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "max_rwald"
   vine             :
   weibo            :
   xing             :
