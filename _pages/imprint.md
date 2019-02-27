@@ -1,6 +1,6 @@
 ---
 permalink: /imprint/
-title: "Impressum und Datenschutz"
+title: "Impressum, Disclaimer und Datenschutzerklärung"
 ---
 
 {% include base_path %}
@@ -9,8 +9,8 @@ title: "Impressum und Datenschutz"
 
 
 ### Angaben gemäß § 5 TMG:
-Max Reinwald 
-Graduate School of Decision Sciences 
+Max Reinwald
+Graduate School of Decision Sciences
 Universitätsstraße 10
 78457 Konstanz 
 
@@ -44,7 +44,8 @@ Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konk
 ### Urheberrecht
 Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.
 Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
-Quellenangabe: https://www.e-recht24.de/muster-datenschutzerklaerung.html
+
+Quellenangabe: <https://www.e-recht24.de/muster-datenschutzerklaerung.html>
 
 
 ## Datenschutzerklärung
@@ -54,13 +55,13 @@ Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der V
 
 
 ### Verantwortlicher
-Max Reinwald
-Graduate School of Decision Sciences
-Universitätsstraße 10
-78464 Konstanz
-Telefon: 07531884136 
-<a href="mailto:max.reinwald@uni-konstanz.de.org">max.reinwald [at] uni-konstanz.de</a><br />
-Telefon: 07531884136
+Max Reinwald  
+Graduate School of Decision Sciences  
+Universitätsstraße 10  
+78464 Konstanz  
+Telefon: 07531884136  
+<a href="mailto:max.reinwald@uni-konstanz.de.org">max.reinwald [at] uni-konstanz.de</a><br />  
+Telefon: 07531884136  
 
 
 ### Arten der verarbeiteten Daten
@@ -144,11 +145,11 @@ Dies setzt immer voraus, dass die Drittanbieter dieser Inhalte, die IP-Adresse d
 
 
 ### Google Fonts
-Wir binden die Schriftarten ("Google Fonts") des Anbieters Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, ein. Datenschutzerklärung: https://www.google.com/policies/privacy/, Opt-Out: https://adssettings.google.com/authenticated.
+Wir binden die Schriftarten ("Google Fonts") des Anbieters Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, ein. Datenschutzerklärung: <https://www.google.com/policies/privacy/>, Opt-Out: <https://adssettings.google.com/authenticated>.
 
 
 
 ### Twitter
-Innerhalb unseres Onlineangebotes können Funktionen und Inhalte des Dienstes Twitter, angeboten durch die Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA, eingebunden werden. Hierzu können z.B. Inhalte wie Bilder, Videos oder Texte und Schaltflächen gehören, mit denen Nutzer Ihr Gefallen betreffend die Inhalte kundtun, den Verfassern der Inhalte oder unsere Beiträge abonnieren können. Sofern die Nutzer Mitglieder der Plattform Twitter sind, kann Twitter den Aufruf der o.g. Inhalte und Funktionen den dortigen Profilen der Nutzer zuordnen. Twitter ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten (https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&status=Active). Datenschutzerklärung: https://twitter.com/de/privacy, Opt-Out: https://twitter.com/personalization.
+Innerhalb unseres Onlineangebotes können Funktionen und Inhalte des Dienstes Twitter, angeboten durch die Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA, eingebunden werden. Hierzu können z.B. Inhalte wie Bilder, Videos oder Texte und Schaltflächen gehören, mit denen Nutzer Ihr Gefallen betreffend die Inhalte kundtun, den Verfassern der Inhalte oder unsere Beiträge abonnieren können. Sofern die Nutzer Mitglieder der Plattform Twitter sind, kann Twitter den Aufruf der o.g. Inhalte und Funktionen den dortigen Profilen der Nutzer zuordnen. Twitter ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten (<https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&status=Active>). Datenschutzerklärung: <https://twitter.com/de/privacy>, Opt-Out: <https://twitter.com/personalization>.
 
-Erstellt mit Datenschutz-Generator.de von RA Dr. Thomas Schwenke. 
+Erstellt mit [Datenschutz-Generator.de von RA Dr. Thomas Schwenke](https://datenschutz-generator.de/)
