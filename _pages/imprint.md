@@ -21,10 +21,10 @@ Telefon: 07531884136
 
 
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
-Max Reinwald 
-Graduate School of Decision Sciences 
-Universitätsstraße 10
-784567 Konstanz 
+Max Reinwald  
+Graduate School of Decision Sciences  
+Universitätsstraße 10  
+78457 Konstanz  
 Telefon: 07531884136 
 
 
