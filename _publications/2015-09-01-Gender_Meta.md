@@ -7,7 +7,6 @@ excerpt: 'Theoretische und empirische Untersuchungen des Zusammenhangs zwischen 
 date: 2015-09-01
 venue: 'Schmalenbachs Zeitschrift für betriebswirtschaftliche Forschung'
 
-paperurl: <a style='color: black;' href="/files/paper1.pdf"> PDF</a>
 
 citation: 'Reinwald, M., Huettermann, H., Kroell, J., Boerner, S. (2015). &quot;Gender Diversity in Führungsteams und Unternehmensperformanz: Eine Meta-Analyse.&quot; <i>Schmalenbachs Zeitschrift für betriebswirtschaftliche Forschung 67</i>. (3), 262 – 296.'
 
