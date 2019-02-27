@@ -24,5 +24,5 @@ In disseminating my research insights I actively cooperate with organizations an
 At University of Konstanz I teach undergraduates on Human Resource Management and Teamwork and act as advisor for their theses. Here is <a style='color: black;' href='https://www.polver.uni-konstanz.de/en/kunze/team/research-associates/research-associates/max-reinwald/'>my homepage</a> at University of Konstanz.
 
 
-When I'm not working I enjoy my time outdoors with ski touring, hiking, running, and mountain biking. And when there is still time left I try building and maintaining this webpage but please bear with me that not all parts of the webpage are up and running at the moment so check back regularly to see the progress.
+When I'm not working I enjoy my time outdoors with ski touring, hiking, running, and mountain biking. And when there is still time left I try building and maintaining this webpage but please bear with me that not all parts of the webpage are up and running at the moment so check back from time to time.
 
