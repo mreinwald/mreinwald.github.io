@@ -4,7 +4,6 @@ title: "Impressum und Datenschutz"
 ---
 
 {% include base_path %}
-{% include toc %}
 
 ## Impressum
 
