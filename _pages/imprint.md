@@ -9,10 +9,10 @@ title: "Impressum, Disclaimer und Datenschutzerklärung"
 
 
 ### Angaben gemäß § 5 TMG:
-Max Reinwald
-Graduate School of Decision Sciences
-Universitätsstraße 10
-78457 Konstanz 
+Max Reinwald  
+Graduate School of Decision Sciences  
+Universitätsstraße 10  
+78457 Konstanz   
 
 
 ### Kontakt:
@@ -61,7 +61,7 @@ Universitätsstraße 10
 78464 Konstanz  
 Telefon: 07531884136  
 <a href="mailto:max.reinwald@uni-konstanz.de.org">max.reinwald [at] uni-konstanz.de</a><br />  
-Telefon: 07531884136  
+
 
 
 ### Arten der verarbeiteten Daten
