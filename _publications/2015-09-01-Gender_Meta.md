@@ -10,7 +10,6 @@ venue: 'Schmalenbachs Zeitschrift für betriebswirtschaftliche Forschung'
 
 citation: 'Reinwald, M., Huettermann, H., Kroell, J., Boerner, S. (2015). &quot;Gender Diversity in Führungsteams und Unternehmensperformanz: Eine Meta-Analyse.&quot; <i>Schmalenbachs Zeitschrift für betriebswirtschaftliche Forschung 67</i>. (3), 262 – 296.'
 
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 
 
 ---
