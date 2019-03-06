@@ -16,7 +16,7 @@ Kunze, F., & Reinwald, M. (2017). Age-Diversity-Management in Teams und Organisa
 
 Boerner, S., Huettermann, H., Reinwald, M. (2017). Effektive Führung heterogener Teams: Wie kann das Erfolgspotential von Diversity genutzt werden? (Effective Leadership for diverse Teams: How to Realize the Performance Potentials of Diversity?). *Gruppe. Interaktion.Organisation.Zeitschrift für Angewandte Organisationspsychologie (GIO), 48* (1), 41–51.
 
-Reinwald, M., Huettermann, H., Kröll, J., Boerner, S. (2015). Gender Diversity in Führungsteams und Unternehmensperformanz: Eine Meta-Analyse (Gender Diversity in Leadership Teams and Organizational Performance: A Meta-Analysis). *Schmalenbachs Zeitschrift für betriebswirtschaftliche Forschung, 67 (3)*, 262 – 296.
+Reinwald, M., Huettermann, H., Kröll, J., Boerner, S. (2015). Gender Diversity in Führungsteams und Unternehmensperformanz: Eine Meta-Analyse (Gender Diversity in Leadership Teams and Organizational Performance: A Meta-Analysis). *Schmalenbachs Zeitschrift für betriebswirtschaftliche Forschung, 67 (3)*, 262 – 296. <a style='color: black;' href="/files/Reinwald, Hüttermann, Kröll & Boerner (2015).pdf">[PDF]</a> 
 
 
 {% include base_path %}
