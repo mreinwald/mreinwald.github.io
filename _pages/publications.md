@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=lurtrcsAAAAJ&hl=de&oi=ao">my Google Scholar profile</a>.</u>
 
-Reinwald, M.& Kunze, F. (in press). Being Different, Being Absent? A Dynamic Perspective on Demographic Dissimilarity and Absenteeism in Blue-Collar Teams. *Academy of Management Journal*.
+Reinwald, M.& Kunze, F. (in press). Being Different, Being Absent? A Dynamic Perspective on Demographic Dissimilarity and Absenteeism in Blue-Collar Teams. *Academy of Management Journal*. <a style='color: black;' href="/files/Reinwald & Kunze, 2019_preprint.pdf">[PDF]</a>
 
 Reinwald, M., Huettermann, H., & Bruch, H. (in press). Beyond the Mean: Understanding Firm-Level Consequences of Variability in Diversity Climate Perceptions. *Journal of Organizational Behavior*. <a style='color: black;' href="/files/Reinwald, Huettermann, & Bruch, 2019_preprint.pdf">[PDF]</a>
 
