@@ -18,8 +18,6 @@ My research includes diversity, team dynamics, and leadership. As demographic di
 My research is published or is forthcoming in the *Academy of Management Journal*, the *Journal of Organizational Behavior*, and the *Best Paper Proceedings of the Academy of Management*. Related work has been featured on a range of news outlets including MarketWatch, Morningstar, ZEIT, and Handelsblatt. I am a  reviewer for different journals, including  the *Journal of Organizational Behavior*, the *European Journal of Work and Organizational Psychology*, and *Small Group Research*. For my research efforts I  received the 2018 Best Student Paper Award and the 2018 Outstanding Reviewer Award by the Gender and Diversity Division of the Academy of Management and also received fellowships from the Graduate School of Decision Sciences and the Zukunftskolleg.
 
 
-In disseminating my research insights I actively cooperate with organizations and publish in practitioner-oriented publications. Moreover, I'm interested in the startup scene and occasionally I end up as participant in a <a style='color: black;' href="/files/AnnualReportGSDS_Kilometer1.pdf">startup idea competition</a>.
-
 When disseminating my research insights, I actively cooperate with organizations and publish in practitioner-oriented publications. I am particularly interested in the start-up scene and occasionally enjoy participating in a <a style='color: black;' href="/files/AnnualReportGSDS_Kilometer1.pdf">start-up competition</a>.
 
 
