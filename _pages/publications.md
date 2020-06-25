@@ -7,9 +7,9 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=lurtrcsAAAAJ&hl=de&oi=ao">my Google Scholar profile</a>.</u>
 
-Reinwald, M.& Kunze, F. (in press). Being Different, Being Absent? A Dynamic Perspective on Demographic Dissimilarity and Absenteeism in Blue-Collar Teams. *Academy of Management Journal, 63*, 1-25. <a style='color: black;' href="/files/Reinwald & Kunze, 2019_preprint.pdf">[PDF]</a>
-
 Gloor, J. L., Gazdag, B., & Reinwald, M. (forthcoming). Overlooked or undercooked? Critical review and recommendations for experimental methods in diversity research. In A. Risberg, S. Just, & F. Villeseche (Eds.) *Routledge Companion to Organizational Diversity Research Methods*. Routledge. <a style='color: black;' href="/files/Gloor, Gazdag, & Reinwald, 2019_preprint.pdf">[PDF]</a>
+
+Reinwald, M.& Kunze, F. (2020). Being Different, Being Absent? A Dynamic Perspective on Demographic Dissimilarity and Absenteeism in Blue-Collar Teams. *Academy of Management Journal, 63*, 1-25. <a style='color: black;' href="/files/Reinwald & Kunze, 2019_preprint.pdf">[PDF]</a>
 
 Reinwald, M., Huettermann, H., & Bruch, H. (2019). Beyond the Mean: Understanding Firm-Level Consequences of Variability in Diversity Climate Perceptions. *Journal of Organizational Behavior, 40* (4), 472-491. <a style='color: black;' href="/files/Reinwald, Huettermann, & Bruch, 2019_preprint.pdf">[PDF]</a>
 
