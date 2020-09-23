@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I’m an assistant professor at the <a style='color: black;' href='https://www.en.ilo.bwl.uni-muenchen.de/index.html'>“Institute for Leadership and Organization”</a> at Ludwig-Maximilians-University Munich in Germany.
+I’m an assistant professor at the <a style='color: black;' href='https://www.en.ilo.bwl.uni-muenchen.de/index.html'>Institute for Leadership and Organization</a> at Ludwig-Maximilians-University Munich in Germany.
 
 
 My research includes diversity, human resource management practices, and leadership. As demographic diversity grows and more businesses struggle to reap the benefits of diversity and avoid negative consequences, the main focus of my work has become inclusion in organizational contexts and how organizations and leaders can together successfully deal  with ongoing diversity challenges. I rely on quantitative methods and study effects of diversity dynamically on multiple levels over time.
