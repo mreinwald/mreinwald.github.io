@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=lurtrcsAAAAJ&hl=de&oi=ao">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="http://scholar.google.com/citations?user=lurtrcsAAAAJ&hl=de&oi=ao">my Google Scholar profile</a>.</u>
 
 Gloor, J. L., Gazdag, B., & Reinwald, M. (forthcoming). Overlooked or undercooked? Critical review and recommendations for experimental methods in diversity research. In A. Risberg, S. Just, & F. Villeseche (Eds.) *Routledge Companion to Organizational Diversity Research Methods*. Routledge. <a style='color: black;' href="/files/Gloor, Gazdag, & Reinwald, 2019_preprint.pdf">[PDF]</a>
 
