@@ -25,7 +25,7 @@ comments:
   disqus:
     shortname            :
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : # http://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     appid                :
     num_posts            : # 5 (default)
@@ -87,7 +87,7 @@ author:
   employer         : "Ludwig-Maximilians-Universitaet"
   googlescholar    : "https://scholar.google.com/citations?user=lurtrcsAAAAJ&hl=de&oi=ao"
   email            : "reinwald@lmu.de"
-  researchgate     :  "https://www.researchgate.net/profile/Max_Reinwald"
+  researchgate     :  "http://www.researchgate.net/profile/Max_Reinwald"
   uri              :
   bitbucket        :
   codepen          :
@@ -287,7 +287,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-# https://github.com/jekyll/jekyll-archives
+# http://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
 #     - categories
