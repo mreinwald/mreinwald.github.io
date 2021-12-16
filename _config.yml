@@ -11,7 +11,7 @@ title                    : "Dr. Max Reinwald"
 title_separator          : "-"
 name                     : &name "Max Reinwald"
 description              : &description "personal description"
-url                      : http://mreinwald.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mreinwald.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mreinwald.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -100,8 +100,8 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "max-reinwald"
-  orcid            : "https://orcid.org/0000-0002-7410-3163"
+  linkedin         : "http://www.linkedin.com/in/max-reinwald"
+  orcid            : "http://orcid.org/0000-0002-7410-3163"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -245,14 +245,14 @@ defaults:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Copenhagen # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -301,7 +301,7 @@ tag_archive:
 
 
 # HTML Compression
-# - https://jch.penibelst.de/
+# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
