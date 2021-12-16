@@ -20,7 +20,7 @@ My research has been published in the *Academy of Management Journal*, *Journal 
 When disseminating my research insights, I actively cooperate with organizations and publish in practitioner-oriented publications. I am particularly interested in the start-up scene and occasionally enjoy participating in a <a style='color: black;' href="/files/AnnualReportGSDS_Kilometer1.pdf">start-up competition</a>.
 
 
-I teach Human Resource Management and Teamwork at the undergraduate level and act as advisor for these students’ theses. Here is <a style='color: black;' href='https://www.en.ilo.bwl.uni-muenchen.de/team/assistant-profs/max_reinwald/index.html'>my homepage</a> at Ludwig-Maximilians-University Munich.
+I teach Leadership, Teamwork, and Human Resource Management at the Bachelor and Master level and act as advisor for these students’ theses. Here is <a style='color: black;' href='https://www.en.ilo.bwl.uni-muenchen.de/team/assistant-profs/max_reinwald/index.html'>my homepage</a> at Ludwig-Maximilians-University Munich.
 
 
 I enjoy time outdoors ski touring, hiking, and running. This webpage is currently an ongoing project, so bear with me, as not all links are up and running fully yet. Thus, do check back from time to time as this page grows and expands. Thanks.
