@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=lurtrcsAAAAJ&hl=de&oi=ao">my Google Scholar profile</a>.</u>
 
 Reinwald, M., Zaia, J. & Kunze, F. (in press). Shine Bright Like a Diamond: When Signaling Creates
-Glass Cliffs for Female Executives. *Journal of Management*.
+Glass Cliffs for Female Executives. *Journal of Management*. <a style='color: black;' href="/files/Reinwald, Zaia, & Kunze JOM preprint.pdf">[PDF]</a>
 
 Reinwald, M., Zimmermann, S., & Kunze, F. (2021). Working in the eye of the pandemic: local COVID-19 infections and daily employee engagement. *Frontiers in Psychology*, 12, 2544. <a style='color: black;' href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.654126/full">[PDF]</a>
 
