@@ -9,6 +9,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 Reinwald, M., Zaia, J., & Kunze, F. (in press). Shine Bright Like a Diamond: When Signaling Creates Glass Cliffs for Female Executives. *Journal of Management*. <a style='color: black;' href="/files/Reinwald, Zaia, & Kunze JOM preprint.pdf">[PDF]</a>
 
+Kanitz, R., Gonzalez, K., Berger, S., Reinwald, M., Huettermann, H., & Franczak, J. (in press). Am I the Only One? Consequences of Change Championing (A)symmetry on Group- and Individual-Level Change Outcomes. *Journal of Organizational Behavior*.
+
 Moser, S., Reinwald, M., & Kunze, F. (in press). Does my leader care about my subgroup? A multilevel model of team faultlines, LMX quality, and employee absenteeism. *European Journal of Work and Organizational Psychology*. <a style='color: black;' href="/files/Moser Reinwald Kunze 2022 preprint.pdf">[PDF]</a>
 
 Reinwald, M., Zimmermann, S., & Kunze, F. (2021). Working in the eye of the pandemic: local COVID-19 infections and daily employee engagement. *Frontiers in Psychology*, 12, 2544. <a style='color: black;' href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.654126/full">[PDF]</a>
