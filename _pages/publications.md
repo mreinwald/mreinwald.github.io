@@ -9,7 +9,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 Kanitz, R., Gonzalez, K., Berger, S., Reinwald, M., Huettermann, H., & Franczak, J. (in press). Am I the Only One? Consequences of Change Championing (A)symmetry on Group- and Individual-Level Change Outcomes. *Journal of Organizational Behavior*. <a style='color: black;' href="/files/Kanitz, Gonzalez, Berger, Reinwald et al., 2023.pdf">[PDF]</a>
 
-Moser, S., Reinwald, M., & Kunze, F. (in press). Does my leader care about my subgroup? A multilevel model of team faultlines, LMX quality, and employee absenteeism. *European Journal of Work and Organizational Psychology*. <a style='color: black;' href="/files/Moser Reinwald Kunze 2022 preprint.pdf">[PDF]</a>
+Moser, S., Reinwald, M., & Kunze, F. (2023). Does my leader care about my subgroup? A multilevel model of team faultlines, LMX quality, and employee absenteeism. *European Journal of Work and Organizational Psychology, 32* (2), 234-244. <a style='color: black;' href="/files/Moser Reinwald Kunze 2022 preprint.pdf">[PDF]</a>
 
 Reinwald, M., Zaia, J., & Kunze, F. (2023). Shine Bright Like a Diamond: When Signaling Creates Glass Cliffs for Female Executives. *Journal of Management, 49*(3), 1005–1036. <a style='color: black;' href="/files/Reinwald, Zaia, & Kunze JOM preprint.pdf">[PDF]</a>
 
