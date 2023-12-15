@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=lurtrcsAAAAJ&hl=de&oi=ao">my Google Scholar profile</a>.</u> Note: * authors contributed equally.
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=lurtrcsAAAAJ&hl=de&oi=ao">my Google Scholar profile</a>.</u> 
 
-Huettermann, H., Berger, S.*, Reinwald, M.*, & Bruch, H. (in press). Power to the People—And Then? A Multilevel Leadership Perspective on Organizational Decentralization. *Human Resource
+Huettermann, H., Berger, S., Reinwald, M., & Bruch, H. (in press). Power to the People—And Then? A Multilevel Leadership Perspective on Organizational Decentralization. *Human Resource
 Management*.
 
 Kanitz, R., Gonzalez, K., Berger, S., Reinwald, M., Huettermann, H., & Franczak, J. (in press). Am I the Only One? Consequences of Change Championing (A)symmetry on Group- and Individual-Level Change Outcomes. *Journal of Organizational Behavior*. <a style='color: black;' href="/files/Kanitz, Gonzalez, Berger, Reinwald et al., 2023.pdf">[PDF]</a>
