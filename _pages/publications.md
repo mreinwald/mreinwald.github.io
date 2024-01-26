@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=lurtrcsAAAAJ&hl=de&oi=ao">my Google Scholar profile</a>.</u> 
+
 Note: * authors contributed equally
 
 Kanitz, R. *, Reinwald, M. *, Gonzalez, K., Burmeister, A., Song, Y., \& Hoegl, M. (in press). Supportive, Resistant, or Both? A Person-Centric View on Employee Responses to Diversity Initiatives. *Journal of Applied Psychology*.
