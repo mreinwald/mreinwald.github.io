@@ -14,7 +14,7 @@ Kanitz, R. *, Reinwald, M. *, Gonzalez, K., Burmeister, A., Song, Y., \& Hoegl, 
 Huettermann, H., Berger, S. *, Reinwald, M. *, & Bruch, H. (in press). Power to the People—And Then? A Multilevel Leadership Perspective on Organizational Decentralization. *Human Resource
 Management*.
 
-Kanitz, R., Gonzalez, K., Berger, S., Reinwald, M., Huettermann, H., & Franczak, J. (in press). Am I the Only One? Consequences of Change Championing (A)symmetry on Group- and Individual-Level Change Outcomes. *Journal of Organizational Behavior*. <a style='color: black;' href="/files/Kanitz, Gonzalez, Berger, Reinwald et al., 2023.pdf">[PDF]</a>
+Kanitz, R., Gonzalez, K., Berger, S., Reinwald, M., Huettermann, H., & Franczak, J. (2023). Am I the Only One? Consequences of Change Championing (A)symmetry on Group- and Individual-Level Change Outcomes. *Journal of Organizational Behavior*, 44, 1048-1065. <a style='color: black;' href="/files/Kanitz, Gonzalez, Berger, Reinwald et al., 2023.pdf">[PDF]</a>
 
 Moser, S., Reinwald, M., & Kunze, F. (2023). Does my leader care about my subgroup? A multilevel model of team faultlines, LMX quality, and employee absenteeism. *European Journal of Work and Organizational Psychology, 32* (2), 234-244. <a style='color: black;' href="/files/Moser Reinwald Kunze 2022 preprint.pdf">[PDF]</a>
 
