@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Max Reinwald"
+title                    : "Prof. Dr. Max Reinwald"
 title_separator          : "-"
 name                     : &name "Max Reinwald"
 description              : &description "personal description"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Max Reinwald"
+  name             : "Prof. Dr. Max Reinwald"
   avatar           : "Portrait Reinwald.JPG"
-  bio              : "Assistant Professor with focus on inclusion and collaboration at work at <a style='color: black;' href='https://www.en.ilo.bwl.uni-muenchen.de/index.html'>Institute for Leadership and Organization</a>" 
-  location         : "Munich, Germany"
-  employer         : "Ludwig-Maximilians-Universitaet"
+  bio              : "Assistant Professor of Management at University of Mannheim" 
+  location         : "Mannheim, Germany"
+  employer         : "University of Mannheim"
   googlescholar    : "https://scholar.google.com/citations?user=lurtrcsAAAAJ&hl=de&oi=ao"
-  email            : "reinwald@lmu.de"
+  email            : "max.reinwald@uni-mannheim.de"
   researchgate     :  "https://www.researchgate.net/profile/Max_Reinwald"
   uri              :
   bitbucket        :
