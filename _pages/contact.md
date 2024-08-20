@@ -6,5 +6,5 @@ author_profile: true
 ---
 Contact information is below, including email and link to university pages.  
 
-* E-mail: reinwald [at] bwl.lmu.de
-* Ludwig-Maximilians-Universität: [Institute for Leadership and Organization](https://www.en.ilo.bwl.uni-muenchen.de/team/assistant-profs/max_reinwald/index.html)
+* E-mail: max.reinwald [at] uni-mannheim.de
+* University of Mannheim: [Faculty Profile]([https://www.en.ilo.bwl.uni-muenchen.de/team/assistant-profs/max_reinwald/index.html](https://www.bwl.uni-mannheim.de/en/about/areas-and-chairs/faculty-profile/reinwald/))
