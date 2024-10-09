@@ -7,8 +7,11 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=lurtrcsAAAAJ&hl=de&oi=ao">my Google Scholar profile</a>.</u> 
 
+Kukula, A., Reinwald, M., Kanitz, R., & Hoegl, M. (in press). Bridging the Past, or Breaking From It? Leader Continuity Rhetoric and Nontarget Employee Diversity Initiative Support. *Journal of Management*. 
 
-Kanitz, R., Reinwald, M., Gonzalez, K., Burmeister, A., Song, Y., & Hoegl, M. (in press). Supportive, Resistant, or Both? A Person-Centric View on Employee Responses to Diversity Initiatives. *Journal of Applied Psychology*.
+Guillén, L., Reinwald, M., & Kunze, F. (in press). Too few or too many? Exploring the Link between Gender Dissimilarity and Employee Absenteeism. *Human Relations*.
+
+Kanitz, R., Reinwald, M., Gonzalez, K., Burmeister, A., Song, Y., & Hoegl, M. (2024). Supportive, Resistant, or Both? A Person-Centric View on Employee Responses to Diversity Initiatives. *Journal of Applied Psychology*, 109 (10), 1635–1658..
 
 Huettermann, H., Berger, S., Reinwald, M., & Bruch, H. (2024). Power to the People—And Then? A Multilevel Leadership Perspective on Organizational Decentralization. *Human Resource
 Management*, 63, 333–353. <a style='color: black;' href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/hrm.22203">[PDF]</a>
