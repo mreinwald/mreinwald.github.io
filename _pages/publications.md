@@ -7,6 +7,9 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=lurtrcsAAAAJ&hl=de&oi=ao">my Google Scholar profile</a>.</u> 
 
+Korman, B.\*, Reinwald, M.\*, Kunze, F., & Koos, S. (accepted). How Political Context Affects Immigrant Newcomers’ Social Undermining Dynamics and Well-Being at Work. *Academy of Management
+Journal*.
+
 Kukula, A., Reinwald, M., Kanitz, R., & Hoegl, M. (in press). Bridging the Past, or Breaking From It? Leader Continuity Rhetoric and Nontarget Employee Diversity Initiative Support. *Journal of Management*. 
 
 Guillén, L., Reinwald, M., & Kunze, F. (in press). Too few or too many? Exploring the Link between Gender Dissimilarity and Employee Absenteeism. *Human Relations*.
