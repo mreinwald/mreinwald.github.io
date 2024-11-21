@@ -10,13 +10,13 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 Korman, B.\*, Reinwald, M.\*, Kunze, F., & Koos, S. (accepted). How Political Context Affects Immigrant Newcomers’ Social Undermining Dynamics and Well-Being at Work. *Academy of Management
 Journal*.
 
-Kukula, A., Reinwald, M., Kanitz, R., & Hoegl, M. (in press). Bridging the Past, or Breaking From It? Leader Continuity Rhetoric and Nontarget Employee Diversity Initiative Support. *Journal of Management*. 
+Kukula, A., Reinwald, M.\*, Kanitz, R.\*, & Hoegl, M. (in press). Bridging the Past, or Breaking From It? Leader Continuity Rhetoric and Nontarget Employee Diversity Initiative Support. *Journal of Management*. 
 
 Guillén, L., Reinwald, M., & Kunze, F. (in press). Too few or too many? Exploring the Link between Gender Dissimilarity and Employee Absenteeism. *Human Relations*.
 
-Kanitz, R., Reinwald, M., Gonzalez, K., Burmeister, A., Song, Y., & Hoegl, M. (2024). Supportive, Resistant, or Both? A Person-Centric View on Employee Responses to Diversity Initiatives. *Journal of Applied Psychology*, 109 (10), 1635–1658..
+Kanitz, R.\*, Reinwald, M.\*, Gonzalez, K., Burmeister, A., Song, Y., & Hoegl, M. (2024). Supportive, Resistant, or Both? A Person-Centric View on Employee Responses to Diversity Initiatives. *Journal of Applied Psychology*, 109 (10), 1635–1658..
 
-Huettermann, H., Berger, S., Reinwald, M., & Bruch, H. (2024). Power to the People—And Then? A Multilevel Leadership Perspective on Organizational Decentralization. *Human Resource
+Huettermann, H., Berger, S.\*, Reinwald, M.\*, & Bruch, H. (2024). Power to the People—And Then? A Multilevel Leadership Perspective on Organizational Decentralization. *Human Resource
 Management*, 63, 333–353. <a style='color: black;' href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/hrm.22203">[PDF]</a>
 
 Kanitz, R., Gonzalez, K., Berger, S., Reinwald, M., Huettermann, H., & Franczak, J. (2023). Am I the Only One? Consequences of Change Championing (A)symmetry on Group- and Individual-Level Change Outcomes. *Journal of Organizational Behavior*, 44, 1048-1065. <a style='color: black;' href="/files/Kanitz, Gonzalez, Berger, Reinwald et al., 2023.pdf">[PDF]</a>
