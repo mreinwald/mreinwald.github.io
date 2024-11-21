@@ -7,6 +7,8 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=lurtrcsAAAAJ&hl=de&oi=ao">my Google Scholar profile</a>.</u> 
 
+*\* denotes equal contributions*
+
 Korman, B.\*, Reinwald, M.\*, Kunze, F., & Koos, S. (accepted). How Political Context Affects Immigrant Newcomers’ Social Undermining Dynamics and Well-Being at Work. *Academy of Management
 Journal*.
 
