@@ -9,12 +9,13 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 *\* denotes equal contributions*
 
-Korman, B.\*, Reinwald, M.\*, Kunze, F., & Koos, S. (accepted). How Political Context Affects Immigrant Newcomers’ Social Undermining Dynamics and Well-Being at Work. *Academy of Management
-Journal*.
+Reinwald, M., Kanitz, R., Bamberger, P., Backmann, J., & Hoegl, M. (in press). The Elephant and Donkey in the Room: Time-Varying Effects of Political Dissimilarity on Social Interactions at Work During U.S. Elections. *Organization Science*.
 
-Kukula, A., Reinwald, M.\*, Kanitz, R.\*, & Hoegl, M. (in press). Bridging the Past, or Breaking From It? Leader Continuity Rhetoric and Nontarget Employee Diversity Initiative Support. *Journal of Management*. 
+Korman, B.\*, Reinwald, M.\*, Kunze, F., & Koos, S. (2025). How Political Context Affects Immigrant Newcomers’ Social Undermining Dynamics and Well-Being at Work. *Academy of Management Journal*, 68 (3), 540-566.
 
-Guillén, L., Reinwald, M., & Kunze, F. (in press). Too few or too many? Exploring the Link between Gender Dissimilarity and Employee Absenteeism. *Human Relations*.
+Kukula, A., Reinwald, M.\*, Kanitz, R.\*, & Hoegl, M. (2025). Bridging the Past, or Breaking From It? Leader Continuity Rhetoric and Nontarget Employee Diversity Initiative Support. *Journal of Management*, 51, (8), 3565-3594. 
+
+Guillén, L., Reinwald, M., & Kunze, F. (2025). Too few or too many? Exploring the Link between Gender Dissimilarity and Employee Absenteeism. *Human Relations*, 78 (10) 1310–1342..
 
 Kanitz, R.\*, Reinwald, M.\*, Gonzalez, K., Burmeister, A., Song, Y., & Hoegl, M. (2024). Supportive, Resistant, or Both? A Person-Centric View on Employee Responses to Diversity Initiatives. *Journal of Applied Psychology*, 109 (10), 1635–1658..
 
